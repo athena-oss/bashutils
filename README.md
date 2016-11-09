@@ -1,4 +1,4 @@
-# bashUtils
+# bashUtils [![Build Status](https://travis-ci.org/athena-oss/bashog.svg?branch=master)](https://travis-ci.org/athena-oss/bashog)
 
 bashUtils is a bash library for handling all sorts of contexts, e.g.: arrays, versioning, etc.
 
