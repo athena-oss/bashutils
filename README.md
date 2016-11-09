@@ -18,11 +18,17 @@ There are three quick start options available:
 ## Using it on your project with bashog
 
 Add the file `feed.hog` to the root of your project with the following content :
-
+* When you want a specific version :
 ```bash
 [bashutils]
 url=athena-oss/bashutils
 version=0.3.0
+lib_dir=lib
+```
+* With the latest master version :
+```bash
+[bashutils]
+url=https://github.com/athena-oss/bashutils.git
 lib_dir=lib
 ```
 
