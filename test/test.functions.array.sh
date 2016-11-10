@@ -63,7 +63,7 @@ function testcase_bashutils.array.find_index_in_array()
 
 }
 
-function testcase_bashutils.array.preprend_to_array()
+function testcase_bashutils.array.prepend_to_array()
 {
 	local myarray=(two)
 	bashutils.array.prepend_to_array "myarray" "one"
